@@ -8,10 +8,10 @@ In order to fight churn, Model Fitness has digitized a number of its customer pr
 Our task is to analyze them and come up with a customer retention strategy.
 
 - In this project we will:
- -- • predict the probability of churn (for the upcoming month) for each customer
- -- • Draw up typical user portraits: select the most outstanding groups and describe their main features
- -- • Analyze the factors that impact churn most
- -- • Draw basic conclusions and develop recommendations on how to improve customer service:
+- - • predict the probability of churn (for the upcoming month) for each customer
+- - • Draw up typical user portraits: select the most outstanding groups and describe their main features
+- - • Analyze the factors that impact churn most
+- - • Draw basic conclusions and develop recommendations on how to improve customer service:
   o Identify target groups
   o Suggest measures to cut churn
   o Describe any other patterns you see with respect to interaction with customers
