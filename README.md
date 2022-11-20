@@ -7,7 +7,7 @@ Churn is defined by the gym when a customer doesn't come for a month.
 In order to fight churn, Model Fitness has digitized a number of its customer profiles. 
 Our task is to analyze them and come up with a customer retention strategy.
 
-In this project we will:
+- In this project we will:
 • predict the probability of churn (for the upcoming month) for each customer
 • Draw up typical user portraits: select the most outstanding groups and describe their main features
  • Analyze the factors that impact churn most
